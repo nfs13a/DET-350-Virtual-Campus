@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: aadfb189c48f84be68f06407c2b4f748
+timeCreated: 1512973073
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCircle.001
+    100004: BezierCircle.002
+    100006: //RootNode
+    100008: Cube
+    100010: Cube.001
+    100012: Cube.002
+    100014: Cube.003
+    100016: Cube.004
+    100018: Cube.005
+    100020: Cube.006
+    100022: Cube.007
+    100024: Cube.008
+    100026: Cube.009
+    100028: Cube.010
+    100030: Cube.011
+    100032: Cube.012
+    100034: Cube.013
+    100036: Cube.014
+    100038: Cube.015
+    100040: Cube.016
+    100042: Cube.017
+    100044: Cube.018
+    100046: Cube.019
+    100048: Cube.020
+    100050: Cube.021
+    100052: Cube.022
+    100054: Cube.023
+    100056: Cube.024
+    100058: Cube.025
+    100060: Cube.026
+    100062: Cube.027
+    100064: Cube.028
+    100066: Cube.029
+    100068: Cube.030
+    100070: Cube.031
+    100072: Cube.032
+    100074: Cube.033
+    100076: Cube.034
+    100078: Cube.035
+    100080: Cube.036
+    100082: Cube.037
+    100084: Cube.038
+    100086: Cube.039
+    100088: Cube.040
+    100090: Cube.041
+    100092: Cube.042
+    100094: Cube.043
+    100096: Cube.044
+    100098: Cube.045
+    100100: Cube.046
+    100102: Cube.047
+    100104: Cube.048
+    100106: Cube.049
+    100108: Cube.050
+    100110: Cube.051
+    100112: Cube.052
+    100114: Cube.053
+    100116: Cube.054
+    100118: Cube.055
+    100120: Cube.056
+    100122: Cube.057
+    100124: Cube.058
+    100126: Cube.059
+    100128: Cube.060
+    100130: Cube.061
+    100132: Cube.062
+    100134: Cube.063
+    100136: Cube.067
+    100138: Cube.069
+    100140: Cube.070
+    100142: Cube.071
+    100144: Cube.072
+    100146: Cube.073
+    100148: Cube.074
+    100150: Cube.077
+    100152: Cube.078
+    100154: Cube.079
+    100156: Cube.080
+    100158: Cube.081
+    100160: Cube.082
+    100162: Cube.083
+    100164: Cube.084
+    100166: Cube.085
+    100168: Cube.086
+    100170: Cube.087
+    100172: Cube.088
+    100174: Cube.089
+    100176: Cube.090
+    100178: Cube.091
+    100180: Cube.092
+    100182: Cube.093
+    100184: Cube.094
+    100186: Cube.095
+    100188: Cube.096
+    100190: Cube.097
+    100192: Cube.098
+    100194: Cube.099
+    100196: Cube.100
+    100198: Cube.101
+    100200: Cube.102
+    100202: Cube.103
+    100204: Cube.104
+    100206: Cube.106
+    100208: Cube.107
+    100210: Cube.108
+    100212: Cube.109
+    100214: Cube.110
+    100216: Cube.111
+    100218: Cube.112
+    100220: Cube.113
+    100222: Cube.114
+    100224: Cube.115
+    100226: Cube.116
+    100228: Cube.117
+    100230: Cube.118
+    100232: Cube.119
+    100234: Cube.120
+    100236: Cube.121
+    100238: Cube.122
+    100240: Cube.123
+    100242: Cube.124
+    100244: Cube.125
+    100246: Cube.129
+    100248: Cube.130
+    100250: Cube.131
+    100252: Cube.132
+    100254: Cube.133
+    100256: Cube.134
+    100258: Cube.135
+    100260: Cube.136
+    100262: Cube.137
+    100264: Cube.138
+    100266: Cube.139
+    100268: Cube.140
+    100270: Cube.141
+    100272: Cube.142
+    100274: Cube.143
+    100276: Cube.144
+    100278: Cube.145
+    100280: Cube.146
+    100282: Cube.147
+    100284: Cube.148
+    100286: Cylinder
+    100288: Cylinder.001
+    100290: Cylinder.002
+    100292: Cylinder.003
+    100294: Cylinder.004
+    100296: Cylinder.005
+    100298: Cylinder.006
+    100300: Cylinder.007
+    100302: Cylinder.008
+    100304: Cylinder.012
+    100306: Cylinder.013
+    100308: Cylinder.015
+    100310: Cylinder.016
+    100312: Cylinder.017
+    100314: Cylinder.018
+    100316: Cylinder.019
+    100318: Cylinder.020
+    100320: Cylinder.021
+    100322: Cylinder.022
+    100324: Plane
+    100326: Plane.001
+    100328: Plane.002
+    100330: Plane.003
+    100332: Plane.005
+    100334: Plane.006
+    100336: Plane.007
+    100338: Plane.008
+    100340: Plane.009
+    100342: Point.000
+    100344: Point.002
+    100346: Sun
+    100348: Text
+    100350: Text.001
+    100352: Text.002
+    400000: BezierCircle
+    400002: BezierCircle.001
+    400004: BezierCircle.002
+    400006: //RootNode
+    400008: Cube
+    400010: Cube.001
+    400012: Cube.002
+    400014: Cube.003
+    400016: Cube.004
+    400018: Cube.005
+    400020: Cube.006
+    400022: Cube.007
+    400024: Cube.008
+    400026: Cube.009
+    400028: Cube.010
+    400030: Cube.011
+    400032: Cube.012
+    400034: Cube.013
+    400036: Cube.014
+    400038: Cube.015
+    400040: Cube.016
+    400042: Cube.017
+    400044: Cube.018
+    400046: Cube.019
+    400048: Cube.020
+    400050: Cube.021
+    400052: Cube.022
+    400054: Cube.023
+    400056: Cube.024
+    400058: Cube.025
+    400060: Cube.026
+    400062: Cube.027
+    400064: Cube.028
+    400066: Cube.029
+    400068: Cube.030
+    400070: Cube.031
+    400072: Cube.032
+    400074: Cube.033
+    400076: Cube.034
+    400078: Cube.035
+    400080: Cube.036
+    400082: Cube.037
+    400084: Cube.038
+    400086: Cube.039
+    400088: Cube.040
+    400090: Cube.041
+    400092: Cube.042
+    400094: Cube.043
+    400096: Cube.044
+    400098: Cube.045
+    400100: Cube.046
+    400102: Cube.047
+    400104: Cube.048
+    400106: Cube.049
+    400108: Cube.050
+    400110: Cube.051
+    400112: Cube.052
+    400114: Cube.053
+    400116: Cube.054
+    400118: Cube.055
+    400120: Cube.056
+    400122: Cube.057
+    400124: Cube.058
+    400126: Cube.059
+    400128: Cube.060
+    400130: Cube.061
+    400132: Cube.062
+    400134: Cube.063
+    400136: Cube.067
+    400138: Cube.069
+    400140: Cube.070
+    400142: Cube.071
+    400144: Cube.072
+    400146: Cube.073
+    400148: Cube.074
+    400150: Cube.077
+    400152: Cube.078
+    400154: Cube.079
+    400156: Cube.080
+    400158: Cube.081
+    400160: Cube.082
+    400162: Cube.083
+    400164: Cube.084
+    400166: Cube.085
+    400168: Cube.086
+    400170: Cube.087
+    400172: Cube.088
+    400174: Cube.089
+    400176: Cube.090
+    400178: Cube.091
+    400180: Cube.092
+    400182: Cube.093
+    400184: Cube.094
+    400186: Cube.095
+    400188: Cube.096
+    400190: Cube.097
+    400192: Cube.098
+    400194: Cube.099
+    400196: Cube.100
+    400198: Cube.101
+    400200: Cube.102
+    400202: Cube.103
+    400204: Cube.104
+    400206: Cube.106
+    400208: Cube.107
+    400210: Cube.108
+    400212: Cube.109
+    400214: Cube.110
+    400216: Cube.111
+    400218: Cube.112
+    400220: Cube.113
+    400222: Cube.114
+    400224: Cube.115
+    400226: Cube.116
+    400228: Cube.117
+    400230: Cube.118
+    400232: Cube.119
+    400234: Cube.120
+    400236: Cube.121
+    400238: Cube.122
+    400240: Cube.123
+    400242: Cube.124
+    400244: Cube.125
+    400246: Cube.129
+    400248: Cube.130
+    400250: Cube.131
+    400252: Cube.132
+    400254: Cube.133
+    400256: Cube.134
+    400258: Cube.135
+    400260: Cube.136
+    400262: Cube.137
+    400264: Cube.138
+    400266: Cube.139
+    400268: Cube.140
+    400270: Cube.141
+    400272: Cube.142
+    400274: Cube.143
+    400276: Cube.144
+    400278: Cube.145
+    400280: Cube.146
+    400282: Cube.147
+    400284: Cube.148
+    400286: Cylinder
+    400288: Cylinder.001
+    400290: Cylinder.002
+    400292: Cylinder.003
+    400294: Cylinder.004
+    400296: Cylinder.005
+    400298: Cylinder.006
+    400300: Cylinder.007
+    400302: Cylinder.008
+    400304: Cylinder.012
+    400306: Cylinder.013
+    400308: Cylinder.015
+    400310: Cylinder.016
+    400312: Cylinder.017
+    400314: Cylinder.018
+    400316: Cylinder.019
+    400318: Cylinder.020
+    400320: Cylinder.021
+    400322: Cylinder.022
+    400324: Plane
+    400326: Plane.001
+    400328: Plane.002
+    400330: Plane.003
+    400332: Plane.005
+    400334: Plane.006
+    400336: Plane.007
+    400338: Plane.008
+    400340: Plane.009
+    400342: Point.000
+    400344: Point.002
+    400346: Sun
+    400348: Text
+    400350: Text.001
+    400352: Text.002
+    2300000: BezierCircle
+    2300002: BezierCircle.001
+    2300004: BezierCircle.002
+    2300006: Cube
+    2300008: Cube.001
+    2300010: Cube.002
+    2300012: Cube.003
+    2300014: Cube.004
+    2300016: Cube.005
+    2300018: Cube.006
+    2300020: Cube.007
+    2300022: Cube.008
+    2300024: Cube.009
+    2300026: Cube.010
+    2300028: Cube.011
+    2300030: Cube.012
+    2300032: Cube.013
+    2300034: Cube.014
+    2300036: Cube.015
+    2300038: Cube.016
+    2300040: Cube.017
+    2300042: Cube.018
+    2300044: Cube.019
+    2300046: Cube.020
+    2300048: Cube.021
+    2300050: Cube.022
+    2300052: Cube.023
+    2300054: Cube.024
+    2300056: Cube.025
+    2300058: Cube.026
+    2300060: Cube.027
+    2300062: Cube.028
+    2300064: Cube.029
+    2300066: Cube.030
+    2300068: Cube.031
+    2300070: Cube.032
+    2300072: Cube.033
+    2300074: Cube.034
+    2300076: Cube.035
+    2300078: Cube.036
+    2300080: Cube.037
+    2300082: Cube.038
+    2300084: Cube.039
+    2300086: Cube.040
+    2300088: Cube.041
+    2300090: Cube.042
+    2300092: Cube.043
+    2300094: Cube.044
+    2300096: Cube.045
+    2300098: Cube.046
+    2300100: Cube.047
+    2300102: Cube.048
+    2300104: Cube.049
+    2300106: Cube.050
+    2300108: Cube.051
+    2300110: Cube.052
+    2300112: Cube.053
+    2300114: Cube.054
+    2300116: Cube.055
+    2300118: Cube.056
+    2300120: Cube.057
+    2300122: Cube.058
+    2300124: Cube.059
+    2300126: Cube.060
+    2300128: Cube.061
+    2300130: Cube.062
+    2300132: Cube.063
+    2300134: Cube.067
+    2300136: Cube.069
+    2300138: Cube.070
+    2300140: Cube.071
+    2300142: Cube.072
+    2300144: Cube.073
+    2300146: Cube.074
+    2300148: Cube.077
+    2300150: Cube.078
+    2300152: Cube.079
+    2300154: Cube.080
+    2300156: Cube.081
+    2300158: Cube.082
+    2300160: Cube.083
+    2300162: Cube.084
+    2300164: Cube.085
+    2300166: Cube.086
+    2300168: Cube.087
+    2300170: Cube.088
+    2300172: Cube.089
+    2300174: Cube.090
+    2300176: Cube.091
+    2300178: Cube.092
+    2300180: Cube.093
+    2300182: Cube.094
+    2300184: Cube.095
+    2300186: Cube.096
+    2300188: Cube.097
+    2300190: Cube.098
+    2300192: Cube.099
+    2300194: Cube.100
+    2300196: Cube.101
+    2300198: Cube.102
+    2300200: Cube.103
+    2300202: Cube.104
+    2300204: Cube.106
+    2300206: Cube.107
+    2300208: Cube.108
+    2300210: Cube.109
+    2300212: Cube.110
+    2300214: Cube.111
+    2300216: Cube.112
+    2300218: Cube.113
+    2300220: Cube.114
+    2300222: Cube.115
+    2300224: Cube.116
+    2300226: Cube.117
+    2300228: Cube.118
+    2300230: Cube.119
+    2300232: Cube.120
+    2300234: Cube.121
+    2300236: Cube.122
+    2300238: Cube.123
+    2300240: Cube.124
+    2300242: Cube.125
+    2300244: Cube.129
+    2300246: Cube.130
+    2300248: Cube.131
+    2300250: Cube.132
+    2300252: Cube.133
+    2300254: Cube.134
+    2300256: Cube.135
+    2300258: Cube.136
+    2300260: Cube.137
+    2300262: Cube.138
+    2300264: Cube.139
+    2300266: Cube.140
+    2300268: Cube.141
+    2300270: Cube.142
+    2300272: Cube.143
+    2300274: Cube.144
+    2300276: Cube.145
+    2300278: Cube.146
+    2300280: Cube.147
+    2300282: Cube.148
+    2300284: Cylinder
+    2300286: Cylinder.001
+    2300288: Cylinder.002
+    2300290: Cylinder.003
+    2300292: Cylinder.004
+    2300294: Cylinder.005
+    2300296: Cylinder.006
+    2300298: Cylinder.007
+    2300300: Cylinder.008
+    2300302: Cylinder.012
+    2300304: Cylinder.013
+    2300306: Cylinder.015
+    2300308: Cylinder.016
+    2300310: Cylinder.017
+    2300312: Cylinder.018
+    2300314: Cylinder.019
+    2300316: Cylinder.020
+    2300318: Cylinder.021
+    2300320: Cylinder.022
+    2300322: Plane
+    2300324: Plane.001
+    2300326: Plane.002
+    2300328: Plane.003
+    2300330: Plane.005
+    2300332: Plane.006
+    2300334: Plane.007
+    2300336: Plane.008
+    2300338: Plane.009
+    2300340: Text
+    2300342: Text.001
+    2300344: Text.002
+    3300000: BezierCircle
+    3300002: BezierCircle.001
+    3300004: BezierCircle.002
+    3300006: Cube
+    3300008: Cube.001
+    3300010: Cube.002
+    3300012: Cube.003
+    3300014: Cube.004
+    3300016: Cube.005
+    3300018: Cube.006
+    3300020: Cube.007
+    3300022: Cube.008
+    3300024: Cube.009
+    3300026: Cube.010
+    3300028: Cube.011
+    3300030: Cube.012
+    3300032: Cube.013
+    3300034: Cube.014
+    3300036: Cube.015
+    3300038: Cube.016
+    3300040: Cube.017
+    3300042: Cube.018
+    3300044: Cube.019
+    3300046: Cube.020
+    3300048: Cube.021
+    3300050: Cube.022
+    3300052: Cube.023
+    3300054: Cube.024
+    3300056: Cube.025
+    3300058: Cube.026
+    3300060: Cube.027
+    3300062: Cube.028
+    3300064: Cube.029
+    3300066: Cube.030
+    3300068: Cube.031
+    3300070: Cube.032
+    3300072: Cube.033
+    3300074: Cube.034
+    3300076: Cube.035
+    3300078: Cube.036
+    3300080: Cube.037
+    3300082: Cube.038
+    3300084: Cube.039
+    3300086: Cube.040
+    3300088: Cube.041
+    3300090: Cube.042
+    3300092: Cube.043
+    3300094: Cube.044
+    3300096: Cube.045
+    3300098: Cube.046
+    3300100: Cube.047
+    3300102: Cube.048
+    3300104: Cube.049
+    3300106: Cube.050
+    3300108: Cube.051
+    3300110: Cube.052
+    3300112: Cube.053
+    3300114: Cube.054
+    3300116: Cube.055
+    3300118: Cube.056
+    3300120: Cube.057
+    3300122: Cube.058
+    3300124: Cube.059
+    3300126: Cube.060
+    3300128: Cube.061
+    3300130: Cube.062
+    3300132: Cube.063
+    3300134: Cube.067
+    3300136: Cube.069
+    3300138: Cube.070
+    3300140: Cube.071
+    3300142: Cube.072
+    3300144: Cube.073
+    3300146: Cube.074
+    3300148: Cube.077
+    3300150: Cube.078
+    3300152: Cube.079
+    3300154: Cube.080
+    3300156: Cube.081
+    3300158: Cube.082
+    3300160: Cube.083
+    3300162: Cube.084
+    3300164: Cube.085
+    3300166: Cube.086
+    3300168: Cube.087
+    3300170: Cube.088
+    3300172: Cube.089
+    3300174: Cube.090
+    3300176: Cube.091
+    3300178: Cube.092
+    3300180: Cube.093
+    3300182: Cube.094
+    3300184: Cube.095
+    3300186: Cube.096
+    3300188: Cube.097
+    3300190: Cube.098
+    3300192: Cube.099
+    3300194: Cube.100
+    3300196: Cube.101
+    3300198: Cube.102
+    3300200: Cube.103
+    3300202: Cube.104
+    3300204: Cube.106
+    3300206: Cube.107
+    3300208: Cube.108
+    3300210: Cube.109
+    3300212: Cube.110
+    3300214: Cube.111
+    3300216: Cube.112
+    3300218: Cube.113
+    3300220: Cube.114
+    3300222: Cube.115
+    3300224: Cube.116
+    3300226: Cube.117
+    3300228: Cube.118
+    3300230: Cube.119
+    3300232: Cube.120
+    3300234: Cube.121
+    3300236: Cube.122
+    3300238: Cube.123
+    3300240: Cube.124
+    3300242: Cube.125
+    3300244: Cube.129
+    3300246: Cube.130
+    3300248: Cube.131
+    3300250: Cube.132
+    3300252: Cube.133
+    3300254: Cube.134
+    3300256: Cube.135
+    3300258: Cube.136
+    3300260: Cube.137
+    3300262: Cube.138
+    3300264: Cube.139
+    3300266: Cube.140
+    3300268: Cube.141
+    3300270: Cube.142
+    3300272: Cube.143
+    3300274: Cube.144
+    3300276: Cube.145
+    3300278: Cube.146
+    3300280: Cube.147
+    3300282: Cube.148
+    3300284: Cylinder
+    3300286: Cylinder.001
+    3300288: Cylinder.002
+    3300290: Cylinder.003
+    3300292: Cylinder.004
+    3300294: Cylinder.005
+    3300296: Cylinder.006
+    3300298: Cylinder.007
+    3300300: Cylinder.008
+    3300302: Cylinder.012
+    3300304: Cylinder.013
+    3300306: Cylinder.015
+    3300308: Cylinder.016
+    3300310: Cylinder.017
+    3300312: Cylinder.018
+    3300314: Cylinder.019
+    3300316: Cylinder.020
+    3300318: Cylinder.021
+    3300320: Cylinder.022
+    3300322: Plane
+    3300324: Plane.001
+    3300326: Plane.002
+    3300328: Plane.003
+    3300330: Plane.005
+    3300332: Plane.006
+    3300334: Plane.007
+    3300336: Plane.008
+    3300338: Plane.009
+    3300340: Text
+    3300342: Text.001
+    3300344: Text.002
+    4300000: Cube.148
+    4300002: Cube.147
+    4300004: Cube.146
+    4300006: Cube.145
+    4300008: Cube.144
+    4300010: Cube.143
+    4300012: Cube.142
+    4300014: Cube.141
+    4300016: Cube.140
+    4300018: Cube.139
+    4300020: Cube.138
+    4300022: Cube.137
+    4300024: Cube.136
+    4300026: Cube.135
+    4300028: Cube.134
+    4300030: Cube.133
+    4300032: Cube.063
+    4300034: Cube.059
+    4300036: Cylinder.008
+    4300038: Cube.058
+    4300040: Cube.057
+    4300042: Cylinder.007
+    4300044: Cylinder.005
+    4300046: Cube.054
+    4300048: Plane.009
+    4300050: Cube.034
+    4300052: Cube.033
+    4300054: Cube.032
+    4300056: Cube.029
+    4300058: Cube.132
+    4300060: Cube.131
+    4300062: Cube.130
+    4300064: Cube.129
+    4300066: Cube.028
+    4300068: Cube.027
+    4300070: Cube.026
+    4300072: Cube.025
+    4300074: Cube.024
+    4300076: Cube.023
+    4300078: Cube.022
+    4300080: Cube.016
+    4300082: Cube.012
+    4300084: Cube.011
+    4300086: Cube.010
+    4300088: Cube.009
+    4300090: Cube.001
+    4300092: Cylinder.001
+    4300094: Plane.006
+    4300096: Cube.125
+    4300098: Cube.124
+    4300100: Cube.123
+    4300102: Cube.122
+    4300104: Cube.121
+    4300106: Cube.120
+    4300108: Cube.119
+    4300110: Cube.118
+    4300112: Cube.117
+    4300114: Cube.116
+    4300116: Cube.115
+    4300118: Cube.114
+    4300120: BezierCircle.002
+    4300122: Text.002
+    4300124: Cube.113
+    4300126: Cube.112
+    4300128: Cube.111
+    4300130: Cube.110
+    4300132: Cube.109
+    4300134: Cube.108
+    4300136: Cube.107
+    4300138: Cube.106
+    4300140: Cube.056
+    4300142: Cube.062
+    4300144: Cube.055
+    4300146: Cube.103
+    4300148: Cube.102
+    4300150: Cube.100
+    4300152: Cube.097
+    4300154: Cube.096
+    4300156: Cube.095
+    4300158: Cube.094
+    4300160: Cube.093
+    4300162: Cube.092
+    4300164: Cube.091
+    4300166: Cube.090
+    4300168: Cube.087
+    4300170: Cube.086
+    4300172: Cube.061
+    4300174: Cube.085
+    4300176: Cube.084
+    4300178: Cube.083
+    4300180: Cube.082
+    4300182: Cube.081
+    4300184: BezierCircle.001
+    4300186: Plane.008
+    4300188: Cube.078
+    4300190: Plane.007
+    4300192: Cube.077
+    4300194: Cube.008
+    4300196: Cube.074
+    4300198: Cylinder.018
+    4300200: Cube.072
+    4300202: Cube.071
+    4300204: Cube.069
+    4300206: Plane.005
+    4300208: Cylinder.016
+    4300210: Cylinder.015
+    4300212: Cube.060
+    4300214: Cube.031
+    4300216: Cube.030
+    4300218: Cube.038
+    4300220: Cylinder.003
+    4300222: Cylinder.012
+    4300224: Cylinder.013
+    4300226: Cube.005
+    4300228: Cube.007
+    4300230: Cylinder
+    4300232: Cube.052
+    4300234: Cube.051
+    4300236: Cube.050
+    4300238: Cube.049
+    4300240: Cube.044
+    4300242: Cube.043
+    4300244: Cube.042
+    4300246: Cube.041
+    4300248: Cube.040
+    4300250: Cube.039
+    4300252: Cube.035
+    4300254: Cube.048
+    4300256: Cube.047
+    4300258: Cube.046
+    4300260: Cube.045
+    4300262: Plane.003
+    4300264: Cube.037
+    4300266: Cube.036
+    4300268: Cube.018
+    4300270: Cube.006
+    4300272: Cube.002
+    4300274: Cylinder.004
+    4300276: Cylinder.022
+    4300278: Cube.101
+    4300280: Cylinder.021
+    4300282: Cube.004
+    4300284: Cylinder.002
+    4300286: Cube.104
+    4300288: Cube.099
+    4300290: Cube.098
+    4300292: Cube.089
+    4300294: Cube.088
+    4300296: Cylinder.017
+    4300298: Cube.073
+    4300300: Cylinder.006
+    4300302: Cube.070
+    4300304: Cube.080
+    4300306: Cylinder.020
+    4300308: Cube.079
+    4300310: Cylinder.019
+    4300312: BezierCircle
+    4300314: Text.001
+    4300316: Text
+    4300318: Cube.013
+    4300320: Cube.003
+    4300322: Cube.021
+    4300324: Cube.020
+    4300326: Cube.019
+    4300328: Cube.017
+    4300330: Cube.014
+    4300332: Cube
+    4300334: Cube.015
+    10800000: Point.000
+    10800002: Point.002
+    10800004: Sun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Border
+    second: {fileID: 2100000, guid: 6bfd6a58cd3ea2e478736aa4191a6c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darker Red Concrete
+    second: {fileID: 2100000, guid: 960e11cb0d630ca4b970a8e162cd19b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Glass
+    second: {fileID: 2100000, guid: c49318886922b464f857b1f541f85d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Glass Doors
+    second: {fileID: 2100000, guid: bdd64ec04db20ed46a22cacff383515e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Glass Round
+    second: {fileID: 2100000, guid: a1f72da36d69f6c438d4d047e1a2e4fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fake Brick
+    second: {fileID: 2100000, guid: 52edc80e2661def4c9b9854c1fe09554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: df69131bbc3eadd4d80bbc7ac25fef48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass ACU
+    second: {fileID: 2100000, guid: 4e76336bf6c3ad046a1438dafa6a557c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Addr
+    second: {fileID: 2100000, guid: de0078abde072d545a1c2f8a0cbd2ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image
+    second: {fileID: 2100000, guid: c2ac9ff84f6f876469c582aa2464139c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.001
+    second: {fileID: 2100000, guid: b1392862cedd3894794462b303f57640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.002
+    second: {fileID: 2100000, guid: 3257caec678e5a44b99dbf7e4fb1fdfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.003
+    second: {fileID: 2100000, guid: 260764afabdec7c46a85fa5a73aecb25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.004
+    second: {fileID: 2100000, guid: 77d94a3eeb0488a4a8646518df08d29b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.005
+    second: {fileID: 2100000, guid: 3c0eb3047d5834445b3f2e5d5df4b007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.006
+    second: {fileID: 2100000, guid: e370e23d0bd5b1541aa1bddf0dbfd6fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.007
+    second: {fileID: 2100000, guid: 3a4b835412787a146815abcdaf9e57c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.008
+    second: {fileID: 2100000, guid: 6168506183a896848b0bf9be0e9ace08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.009
+    second: {fileID: 2100000, guid: 761a9c04adf3430438d6a55a76ea3c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.010
+    second: {fileID: 2100000, guid: 5d556b3a7f82f104bb421d7cd31bc462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.011
+    second: {fileID: 2100000, guid: d1bdaebf44f63da4d8ba8aa10e48739d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.012
+    second: {fileID: 2100000, guid: c5e85e53daf89b04b9c3295dc495d902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.013
+    second: {fileID: 2100000, guid: 098e10ea1953d854b93183dac0a7961a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.014
+    second: {fileID: 2100000, guid: f64d68c17431dba45b5c315fa1126eda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.015
+    second: {fileID: 2100000, guid: 6f2b51fed2192b74fb2f9cacc7e3ef8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.016
+    second: {fileID: 2100000, guid: bbf4f72326dc4c04baa53b1dd8e85938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.017
+    second: {fileID: 2100000, guid: 8a2faf7e9c181574db7fed8298e82ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.019
+    second: {fileID: 2100000, guid: 2746b47c2146dc942aa1a63790a2605e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.020
+    second: {fileID: 2100000, guid: d59627c7c2ea2564488159dde6170579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.021
+    second: {fileID: 2100000, guid: 7ada35e03c6c0114695c819652e7dce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.022
+    second: {fileID: 2100000, guid: 26782ab7dc0747c4d93adfbbef53314b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.023
+    second: {fileID: 2100000, guid: 32f489ad135ef5e479551e156d5ce15d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.024
+    second: {fileID: 2100000, guid: 4ff861971cac26f4b9687c7cf20baa23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.025
+    second: {fileID: 2100000, guid: 7355910753bd45149b73bc03c152577f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.026
+    second: {fileID: 2100000, guid: 515beda63ca4bb54ab6edf978a171f4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.027
+    second: {fileID: 2100000, guid: 3e595a583d3e06a49b6246a0e08f3ae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.028
+    second: {fileID: 2100000, guid: ce4fe83b27e83164f9aa30a79cd95983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.029
+    second: {fileID: 2100000, guid: 3b204d930e784734e882330665712a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.030
+    second: {fileID: 2100000, guid: 7be3b1fc57a4dec42ba2cfb5d2d37396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.031
+    second: {fileID: 2100000, guid: 537259aa4624408499b37d1a1e927130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.032
+    second: {fileID: 2100000, guid: f121bd39ef8a58f4b8a7de4763420571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.033
+    second: {fileID: 2100000, guid: 2447091d7d0fe5548876aa63eb6a49e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.034
+    second: {fileID: 2100000, guid: 0ee117252dc8c274f8fd935941c4758b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.035
+    second: {fileID: 2100000, guid: 3932651d719324a48a63aab0f07594db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.036
+    second: {fileID: 2100000, guid: d504fa62957b6d54ba751b5ae4e4ab4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.037
+    second: {fileID: 2100000, guid: 0c90775e223ccda45a44f7af50e6589c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.038
+    second: {fileID: 2100000, guid: 83ae452e5ea5c0a4098108f62c180a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.039
+    second: {fileID: 2100000, guid: 276e3fe2400a7fe40aa546d44981acba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Image.040
+    second: {fileID: 2100000, guid: 44ef5441e9145d54db07622b1614fec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Info
+    second: {fileID: 2100000, guid: 58c6e19dfc5e54b43b727e7cd312ce48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Title
+    second: {fileID: 2100000, guid: b0bb34c916d51ae4593abd7ac103165e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Concrete
+    second: {fileID: 2100000, guid: e774e59a11c4b1648be6fe53c6bcca2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5444363b4d560e343b14670246ffcc37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Concrete
+    second: {fileID: 2100000, guid: 092129bf52854f546abd7d6479937455, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: ae9934d2e61460d4a9c77b5b7524195d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Very Light Concrete
+    second: {fileID: 2100000, guid: 61c465659081f1147b99f904ee6932e0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
