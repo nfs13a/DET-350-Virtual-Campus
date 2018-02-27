@@ -92,7 +92,7 @@ public class ClimbingManager : MonoBehaviour
             Body.useGravity = true;
             Body.isKinematic = false;
         }
-        if (!isGripped && onGround && lDevice.GetPress(SteamVR_Controller.ButtonMask.Grip) || rDevice.GetPress(SteamVR_Controller.ButtonMask.Grip) &&!isGripped && onGround)
+        if (!isGripped && onGround && (lDevice.GetPress(SteamVR_Controller.ButtonMask.Grip) || rDevice.GetPress(SteamVR_Controller.ButtonMask.Grip)))
         {
             rightMovement = (right.prevPos - right.transform.localPosition) / Time.deltaTime;
             rightSpeed = rightMovement.magnitude;
